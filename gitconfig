@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = craig.a.norford@gmail.com
+	name = Craig Norford
